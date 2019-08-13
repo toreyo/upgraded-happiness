@@ -8,10 +8,15 @@ while True:
     if command=="start":
         if started:
             print('the car is already started!!!')
-
-        print('the car has started VROOM VROOM')
+        else:
+            started = True
+            print('the car has started VROOM VROOM')
     elif command=="stop":
-        print('the car has stopped!')
+        if not started:
+            print('the car is already stopped!')
+        else:
+            started = False
+            print('the car has stopped!')
 
 
 
