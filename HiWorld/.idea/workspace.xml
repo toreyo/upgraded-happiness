@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f8379e0-5ce0-491e-98f1-83a6c5335ce1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listmethods_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpacking.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/HiWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HiWorld.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2D_lists_or_matrices.py" beforeDir="false" afterPath="$PROJECT_DIR$/2D_lists_or_matrices.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/list_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/list_methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nestedloops_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/nestedloops_practice.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +29,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1PMatmCQYOr4543z2b8KJcdihsq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -45,8 +50,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.list_methods">
-    <configuration name="2D_lists_or_matrices" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.dictionaries_practice">
+    <configuration name="dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HiWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2D_lists_or_matrices.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionaries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="forloops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dictionaries_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HiWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/forloops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionaries_practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_methods" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="listmethods_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HiWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_methods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listmethods_practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nestedloops_in_forloops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HiWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nestedloops_in_forloops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nestedloops_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="unpacking" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HiWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nestedloops_practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unpacking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.list_methods" />
-        <item itemvalue="Python.2D_lists_or_matrices" />
-        <item itemvalue="Python.nestedloops_practice" />
-        <item itemvalue="Python.nestedloops_in_forloops" />
-        <item itemvalue="Python.forloops" />
+        <item itemvalue="Python.dictionaries_practice" />
+        <item itemvalue="Python.dictionaries" />
+        <item itemvalue="Python.unpacking" />
+        <item itemvalue="Python.tuples" />
+        <item itemvalue="Python.listmethods_practice" />
       </list>
     </recent_temporary>
   </component>
