@@ -6,7 +6,7 @@ matrix = [
 
 print(matrix[1][1])
 
-print('*'*20)
+print()
 
 matrix = [
     [1,2,3],

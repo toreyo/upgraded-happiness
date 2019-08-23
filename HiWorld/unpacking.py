@@ -12,3 +12,6 @@ print(coordinates)
 print(x)
 print(y)
 
+print()
+
+
