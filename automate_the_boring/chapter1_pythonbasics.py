@@ -1,6 +1,7 @@
 #this is a comment
 #data types are integers, floats, and strings
 #expressions consists of values (eg.2) and operators (eg. +, -, /, //, %, **)
+#how to codeeeee 11/11/19
 
 bacon = 1
 print(bacon + 1)
