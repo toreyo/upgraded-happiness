@@ -3,18 +3,19 @@
     # range(len(someList))
     # with a forLoop to iterate over indexes of a list.
 
+#USEFUL
 supplies = ['pen', 'paper', 'flamethrower', 'binder']
 for i in range(len(supplies)):
     print('Index ' + str(i) + ' in supplies is ' + supplies[i])
 
-
+#USEFUL
 #In and Not Operators
 spam = ['hello', 'hi', 'howdy', 'heya']
 print('cat' in spam)
 
 
 #Multiple Assignemnt Trick
-# lets you asign multiple variables with values in one line of code
+# lets you assign multiple variables with values in one line of code
 
 cat = ['fat', 'orange', 'loud']
 size, color, disposition = cat
@@ -42,6 +43,9 @@ print(bacon)
 
 spam = ['hello', 'hi', 'howdy', 'heyas']
 print(spam.index('heyas'))
+
+poppingStyles = ['boogaloo', 'tutting', 'robotting', 'hitting', 'animation', 'dimestop']
+print(poppingStyles.index('tutting'))
 
 # Adding values to a list w/ Append and Insert Methods
 # append and insert are LIST METHODS

@@ -26,8 +26,7 @@
 
 name = input('What is your name? ')
 
-
-if name == 'Alice':
+if name.lower() == 'alice':
     print('Hi, Alice.')
     age = int(input('What is your age? '))
     if age < 12:
@@ -37,6 +36,12 @@ if name == 'Alice':
     elif age > 100:
         print('You are not Alice, grannie.')
 
+else:
+    print('Hi ' + name)
+
+
+print()
+print()
 #whileloops
 # Will continue to loop while a condition is True
 # can use break and continue statements
@@ -45,6 +50,8 @@ while spam <5:
     print('Hello World!')
     spam += 1
 
+print()
+print()
 #forloops
 # will loop for a certain amount of time
 # can use break and continue statements

@@ -42,3 +42,23 @@ print('cats', 'dogs', 'mice', sep=',')
 #Exception Handling
 #
 
+def pstyle(name):
+    print("popping style " + name)
+
+pstyle("boogaloo")
+pstyle("toyman")
+pstyle("robot")
+pstyle("isolation")
+
+def popping():
+    print("I love popping")
+    plove = input("Do you love popping? ")
+    if plove == "yes":
+        print("You're a homie")
+    elif plove == "no":
+        print("you're not a homie")
+    else:
+        print("you need to join popping")
+
+popping()
+

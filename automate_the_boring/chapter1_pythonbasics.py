@@ -42,3 +42,5 @@ rndm = 'hi there jimmy pal oh pally oh pal buddy oh pal'
 print(len(rndm))
 
 print('i am ' + str(26) + ' years old!')
+
+print('hi bob')
