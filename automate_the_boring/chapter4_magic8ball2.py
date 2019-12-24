@@ -12,6 +12,5 @@ messages = ['It is certainly so',
 
 print(messages[random.randint(0, len(messages) - 1)])
 
-
 print('''four score and seven 
 years ago''')
