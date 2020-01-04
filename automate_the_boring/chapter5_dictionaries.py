@@ -35,6 +35,7 @@ print()
 
 # GET METHOD
 # to determine if key exists in a dictionary
+# dictionaryName.get('item', 0) - 0 is implemented to return, incase there is no item in the dictionary
 
 partyItems = {'beer': '3', 'wine': '2', 'hards': '1'}
 print('I am bringing ' + str(partyItems.get('beer', 0)) + ' beer bottles')
