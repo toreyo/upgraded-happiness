@@ -16,7 +16,7 @@ inventory = {'weapons': {'dagger': 3, 'sword': 1, 'bow': 1, 'arrow': 20}, 'potio
 def displayInventory(bag, items):
     numBrought = 0
     for k, v in bag.items():
-        numBrought = numBrought + v.get(items, 0)
+        numBrought += v.get(items, 0)
     return(numBrought)
 
 print('These are your weapons and potions that are available: ')
