@@ -50,3 +50,14 @@ print(spam)
 world = 'Hello World!'
 world = world.partition('ello')
 print(world)
+
+cstring = 'this is a center string'
+print(cstring.center(40, '*'))
+print(cstring.center(40))
+
+lstring = 'this a is a left string'
+print(lstring.ljust(40, '-'))
+
+rstring = 'this is a right string'
+print(rstring.rjust(40, '-'))
+print(rstring.rjust(40))
