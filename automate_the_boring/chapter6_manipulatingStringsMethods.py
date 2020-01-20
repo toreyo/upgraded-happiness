@@ -61,3 +61,19 @@ print(lstring.ljust(40, '-'))
 rstring = 'this is a right string'
 print(rstring.rjust(40, '-'))
 print(rstring.rjust(40))
+
+# Strip methods
+# Used to remove spaces, tabs or new lines on LEFT, RIGHT, or BOTH
+
+spam = '    hello, world      '
+print(spam.strip())
+
+print(spam.lstrip())
+print(spam.rstrip())
+
+
+spam = 'SpamSpamBaconSpamEggsSpamSpam'
+print(spam.strip('ampS'))
+# strips from 'ampS' from both left and right sides of the string,  the order does not matter
+
+print(ord('A'))
