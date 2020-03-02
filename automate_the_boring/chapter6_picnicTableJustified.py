@@ -1,3 +1,5 @@
+#! python3
+
 def picnicF(picnicItems, LWidth, RWidth):
     print('Picnic List!'.center(LWidth + RWidth, '-'))
     for k,v in picnicItems.items():
@@ -5,3 +7,6 @@ def picnicF(picnicItems, LWidth, RWidth):
 
 picnicItems = {'sandwiches': 3, 'hotdogs': 2, 'juice': 7, 'beer': 10}
 picnicF(picnicItems, 10, 20)
+
+input("Press ENTER to escape")
+
