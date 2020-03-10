@@ -3,7 +3,7 @@
 # of each line of text on the clipboard
 
 import pyperclip
-text = pyperclip.paste
+text = pyperclip.paste()
 
 # TODO: Separate lines and add stars
 
