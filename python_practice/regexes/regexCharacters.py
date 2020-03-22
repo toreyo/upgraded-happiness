@@ -11,9 +11,22 @@
 # ^ beginning of a string
 #  $ end of a string
 
+# [] to indicate what range of characters you want
+# [^] to indicate all characters, but the ones in the brackets
+
+# Quantifiers
+# + - 1 or more
+# * - 0 or more
+# ? - 0 or one; makes the character OPTIONAL
+# {,3} - from beginning to the number
+# {3} - exact number
+# {3,} - number and more
+# {3,4} - range of numbers
+
 
 
 import re
+
 
 textToSearch = '''abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLKMNOPQRSTUVWXYZ123456789
 
