@@ -1,27 +1,16 @@
 from django.shortcuts import render
+from .models import Post
+
 
 
 # Function Home
 # handles traffic from blog
 
-posts = [
-    {'author': 'toreyo',
-     'title': 'Blog Post 1',
-     'content': 'First post content',
-     'datePosted': 'April 22, 2020'
-    },
-      {'author': 'toreyo',
-     'title': 'Blog Post 2',
-     'content': 'Second post content',
-     'datePosted': 'April 23, 2020'
-    },
-
-]
 
 
 def home(request):
     context = {
-        'posts': posts
+        'posts': Post.objects.all()
     }
     return render(request, 'blog/home.html', context)
 
