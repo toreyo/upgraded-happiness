@@ -1,5 +1,2 @@
-print('hello world')
-
-x = ['']
-y = {}
-sadfasdf
+from emoji import emojize
+print(emojize(":thumbs_up:"))
